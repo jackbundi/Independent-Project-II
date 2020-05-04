@@ -1,3 +1,27 @@
-body{
-    background-image: url(img/);
+
+.container1-welcome{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(/img/bg.jpg);
+
+}
+
+.container-1{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex-box-container-1{
+display: flex;
+border: 1px solid black;
+padding: 10px;
+justify-content: space-around;
+}
+.flex-box-container-1 div{
+    padding: 10px;
+    border: 1px solid black;
+    align-items: center;
 }
